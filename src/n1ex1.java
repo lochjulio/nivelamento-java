@@ -11,7 +11,7 @@ public class n1ex1 {
 
         soma = x + y;
 
-        System.out.println("SOMA: " + soma)
+        System.out.println("SOMA: " + soma);
 
         sc.close();
     }
