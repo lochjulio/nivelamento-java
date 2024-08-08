@@ -1,4 +1,3 @@
-import javax.sound.sampled.FloatControl;
 import java.util.Locale;
 import java.util.Scanner;
 
