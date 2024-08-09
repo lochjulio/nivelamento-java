@@ -1,15 +1,18 @@
+package p1;
+
 import java.util.Scanner;
 
-public class n4ex6 {
+public class n2ex1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int N = sc.nextInt();
 
-        for (int i=1; i<=N; i++) {
-            if (N % i == 0) {
-                System.out.println(i);
-            }
+        if (N<0) {
+            System.out.println("NEGATIVO");
+        }
+        else {
+            System.out.println("POSITIVO");
         }
 
         sc.close();

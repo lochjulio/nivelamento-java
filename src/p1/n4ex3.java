@@ -1,4 +1,5 @@
-import javax.sound.sampled.FloatControl;
+package p1;
+
 import java.util.Locale;
 import java.util.Scanner;
 
